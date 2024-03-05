@@ -1,6 +1,6 @@
 # ML Algorithm Implementation
 
-This repository contains implementations of various machine learning algorithms. Each algorithm is implemented in a separate file .
+This repository contains implementations of various machine learning algorithms from scratch in python with basic python functions and numpy library. Each algorithm is implemented in a separate file .
 
 ## Algorithms Included
 
