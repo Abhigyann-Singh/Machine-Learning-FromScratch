@@ -9,6 +9,8 @@ This repository contains implementations of various machine learning algorithms.
 3. Decision Trees
 4. Random Forests
 5. KMean
+6. Perceptron
+7. Naives Bayes(Gaussian)
 
 ### Note
 
