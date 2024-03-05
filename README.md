@@ -21,5 +21,6 @@ To use any of the implemented algorithms, simply navigate to the corresponding f
 ## Learning material
 
 Assembly AI : Machine Learning from scratch playlist{link: https://www.youtube.com/watch?v=ltXSoduiVwY&list=PLcWfeUsAys2k_xub3mHks85sBHZvg24Jd&index=4}
+Coursera : Advanced Learning Algorithm{link: https://www.coursera.org/learn/advanced-learning-algorithms}
 
 
